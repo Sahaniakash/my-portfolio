@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: rgb(193, 241, 241);
+    
+}
+
+header {
+    background: #333;
+    color: #fdfafa;
+    text-align: center;
+    padding: 1em;
+}
+
+header nav a {
+    color: #fff;
+    margin: 0 1em;
+    text-decoration: none;
+}
+
+section {
+    padding: 2em;
+    
+}
+
+
+#about, #skills, #projects, #contact, #certification {
+    border-bottom: 1px solid black;
+}
+
+.project {
+    margin-bottom: 1em;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background: #333;
+    color: #fff;
+}
+
+section img {
+    height: 300px;
+    
+}
